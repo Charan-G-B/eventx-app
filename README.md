@@ -10,10 +10,10 @@ It supports:
 - ⚡ Realtime-ready with [Supabase](https://supabase.com) (optional)
 
 ## 🚀 Live Demo
-Deployed on [Vercel](https://vercel.com) → (your URL here once deployed)
+Deployed on [Vercel](https://vercel.com) → 
 
 ## 📦 Setup & Deployment
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/eventx-app.git
+   git clone https://github.com/Charan-G-B/eventx-app.git
    cd eventx-app
