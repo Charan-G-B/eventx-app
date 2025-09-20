@@ -10,7 +10,7 @@ It supports:
 - ⚡ Realtime-ready with [Supabase](https://supabase.com) (optional)
 
 ## 🚀 Live Demo
-Deployed on [Vercel](https://vercel.com) → 
+Deployed on [Vercel](https://vercel.com) → https://eventx-app.vercel.app/
 
 ## 📦 Setup & Deployment
 1. Clone this repo:
