@@ -1,4 +1,4 @@
-# Eventx – Hackathon Ready Event Management SPA
+# Eventx –  Event Management SPA
 
 Eventx is a lightweight event management single-page application (SPA) built with **HTML + TailwindCSS + Vanilla JavaScript**.  
 It supports:
